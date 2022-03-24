@@ -21,3 +21,15 @@ class Libro:
     def get_isbn(self):
         return self.isbn
     
+    #Creamos los setter
+    def set_titulo(self, titulo):
+        self.titulo = titulo
+    
+    def set_autor(self,autor):
+        self.autor = autor
+    
+    def set_paginas(self, paginas):
+        self.paginas = paginas
+
+    def set_isbn(self, isbn):
+        self.isbn = isbn
