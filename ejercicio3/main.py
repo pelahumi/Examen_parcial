@@ -5,4 +5,4 @@ from Cuentas.vip import *
 from crear import *
 
 if __name__ == "__main__":
-    
+    eleccion_cuenta()
